@@ -1,6 +1,7 @@
 import 'package:get/get.dart';
 
-import '../mvc/views/onboarding/splash_screen.dart';
+import 'features/onboarding/splash_screen.dart';
+
 
 class AppRoutes {
   static const splash = '/splash';

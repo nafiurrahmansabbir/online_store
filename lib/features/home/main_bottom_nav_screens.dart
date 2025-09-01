@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import '../../controllers/bottom_nav_bar_controller.dart';
+import 'controllers/bottom_nav_bar_controller.dart';
 import 'home_screen.dart';
 
 class MainBottomNavScreen extends StatefulWidget {

@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:online_store/controller_binder.dart';
-import 'package:online_store/mvc/views/onboarding/splash_screen.dart';
-
-import 'routes/app_routes.dart';
+import 'app_routes.dart';
 import 'themes/dark_theme.dart';
 import 'themes/light_theme.dart';
 
